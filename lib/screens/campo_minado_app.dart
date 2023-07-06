@@ -1,8 +1,8 @@
-import 'package:campo_minado/components/tabuleiro_widget.dart';
-import 'package:campo_minado/models/explosao_exception.dart';
-import 'package:campo_minado/models/tabuleiro.dart';
+import 'package:flutter_minesweeper_game_cod3r/components/tabuleiro_widget.dart';
+import 'package:flutter_minesweeper_game_cod3r/models/explosao_exception.dart';
+import 'package:flutter_minesweeper_game_cod3r/models/tabuleiro.dart';
 import 'package:flutter/material.dart';
-import 'package:campo_minado/components/resultado_widget.dart';
+import 'package:flutter_minesweeper_game_cod3r/components/resultado_widget.dart';
 import '../models/campo.dart';
 
 class CampoMinadoApp extends StatefulWidget {

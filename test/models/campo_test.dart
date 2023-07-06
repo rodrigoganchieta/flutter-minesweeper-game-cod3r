@@ -1,4 +1,4 @@
-import 'package:campo_minado/models/campo.dart';
+import 'package:flutter_minesweeper_game_cod3r/models/campo.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
